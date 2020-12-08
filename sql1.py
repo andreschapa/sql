@@ -16,3 +16,4 @@ cursor.execute("""CREATE TABLE population(
 
 #close the database connection
 conn.close()
+
